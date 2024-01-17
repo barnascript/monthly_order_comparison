@@ -9,4 +9,4 @@ l used the sales store example data for this, you can download that and the fina
 
 Get access to the Tableau Worksheet here ~ https://public.tableau.com/views/MonthlyOrderComparison/Sheet2?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
-### Note: Comparing monthly results is actually pretty poor practice as months have varying numbers of days so shouldn’t be compared like for like, in retail a month with more weekends will typically have greater sales too. In reality you’d create an average per day to counteract the differing number of days, or use a 4 week period but for this project I’ll keep it simple!
+##### Note: Comparing monthly results is actually pretty poor practice as months have varying numbers of days so shouldn’t be compared like for like, in retail a month with more weekends will typically have greater sales too. In reality you’d create an average per day to counteract the differing number of days, or use a 4 week period but for this project I’ll keep it simple!
